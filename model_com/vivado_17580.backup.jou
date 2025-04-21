@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Fri Jul  2 01:03:27 2021
+# Process ID: 17580
+# Current directory: D:/Study/Homework/COexp/model_com
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20092 D:\Study\Homework\COexp\model_com\model_com.xpr
+# Log file: D:/Study/Homework/COexp/model_com/vivado.log
+# Journal file: D:/Study/Homework/COexp/model_com\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Study/Homework/COexp/model_com/model_com.xpr
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+launch_simulation
+launch_simulation
+source sim_top.tcl
+close_sim
+launch_simulation
+source sim_top.tcl
+close_sim

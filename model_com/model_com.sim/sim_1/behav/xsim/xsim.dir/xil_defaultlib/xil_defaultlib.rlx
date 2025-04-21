@@ -1,0 +1,20 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+C:/Users/admin/Desktop/model_com/model_com.sim/sim_1/behav/xsim/glbl.v,1522801934,verilog,,,,glbl,,,,,,,,
+C:/Users/admin/Desktop/model_com/model_com.srcs/sim_1/new/sim_top.v,1625201008,verilog,,,,sim_top,,,,,,,,
+C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/ALU.v,1625206892,verilog,,C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/circle_counter.v,,ALU,,,,,,,,
+C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/circle_counter.v,1625201660,verilog,,C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/cm.v,,circle_counter,,,,,,,,
+C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/cm.v,1625219544,verilog,,C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/controller.v,,cm,,,,,,,,
+C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/controller.v,1625204308,verilog,,C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/ireg.v,,controller,,,,,,,,
+C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/ireg.v,1625126965,verilog,,C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/irom.v,,ireg,,,,,,,,
+C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/irom.v,1625213661,verilog,,C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/mireg.v,,irom,,,,,,,,
+C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/mireg.v,1625139960,verilog,,C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/pc.v,,mireg,,,,,,,,
+C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/pc.v,1625212772,verilog,,C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/ram.v,,pc,,,,,,,,
+C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/ram.v,1625112003,verilog,,C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/regfile.v,,ram,,,,,,,,
+C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/regfile.v,1625153774,verilog,,C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/select.v,,regfile,,,,,,,,
+C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/select.v,1625112498,verilog,,C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/signex.v,,select,,,,,,,,
+C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/signex.v,1625112199,verilog,,C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/top.v,,signex,,,,,,,,
+C:/Users/admin/Desktop/model_com/model_com.srcs/sources_1/new/top.v,1625213838,verilog,,C:/Users/admin/Desktop/model_com/model_com.srcs/sim_1/new/sim_top.v,,top,,,,,,,,
+D:/Study/Homework/COexp/model_com/model_com.srcs/sources_1/new/miareg.v,1625157418,verilog,,D:/Study/Homework/COexp/model_com/model_com.srcs/sources_1/new/mireg.v,,miareg,,,,,,,,
