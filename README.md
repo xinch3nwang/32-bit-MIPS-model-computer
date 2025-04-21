@@ -1,0 +1,2 @@
+32位MIPS架构模型机硬件设计
+使用Verliog于XilinxVivado实现
